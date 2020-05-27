@@ -1,2 +1,2 @@
-# Sidd_Tim.github.io
+# SiddTim.github.io
 This is my Personal Website.
