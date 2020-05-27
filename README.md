@@ -1,2 +1,2 @@
 # SiddTim.github.io
-This is my Personal Website.
+Regular Test.
