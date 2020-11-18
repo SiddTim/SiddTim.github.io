@@ -6,4 +6,4 @@ I'm not really much into social media but you can find me on <a href="https://tw
 
 **Email**
 
-sidd_tim@outlook.com
+**sidd_tim@outlook.com**
