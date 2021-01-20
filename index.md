@@ -1,6 +1,7 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-GB">
   <head>
-    <title>Intro </title>
+    <title>Intro</title>
   </head>
 </html>
  
