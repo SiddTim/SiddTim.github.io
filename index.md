@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-  <head>
-    <title>Intro</title>
-  </head>
-</html>
- 
 ## Github
 <a href="https://github.com/d4rkc0nd0r" target="_blank">GitHub</a>
 
